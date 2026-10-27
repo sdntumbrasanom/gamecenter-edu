@@ -1,0 +1,6 @@
+{
+  "name": "EduGame Hub & Generator Soal Kurikulum Merdeka",
+  "description": "Pusat game edukasi terpadu dengan generator soal otomatis Kurikulum Merdeka dan Taksonomi Bloom ke spreadsheet untuk disematkan pada game.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
