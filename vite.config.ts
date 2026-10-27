@@ -5,6 +5,9 @@ import {defineConfig} from 'vite';
 
 export default defineConfig(() => {
   return {
+    // Tambahkan baris ini (sesuaikan dengan nama repositori GitHub Anda)
+    base: '/gamecenter-edu/', 
+    
     plugins: [react(), tailwindcss()],
     resolve: {
       alias: {
